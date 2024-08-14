@@ -1,0 +1,15 @@
+input{
+  width: 90%;
+  border-radius: 50px;
+}
+.row{
+  margin: 15px 0px;
+}
+.btn{
+  margin-right: 5px;
+  height: 35px;
+  width: 88px;
+}
+.addtodo{
+  width: 85%;
+}
